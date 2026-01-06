@@ -216,7 +216,7 @@ export default function Step8Export({ formData, completedSteps, onExport }: Step
         </h4>
         <ol className="text-sm text-primary-700 space-y-2 list-decimal list-inside">
           <li>Download the ZIP bundle</li>
-          <li>Email to your lawyer with subject: "QréativeLab Inc. - Incorporation Documents for Review"</li>
+          <li>Email to your lawyer with subject: &quot;QréativeLab Inc. - Incorporation Documents for Review&quot;</li>
           <li>Lawyer reviews and optimizes (2-3 hours)</li>
           <li>Lawyer files with ISED (federal) and provincial registry</li>
           <li>Receive Certificate of Incorporation</li>
